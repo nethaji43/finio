@@ -2,6 +2,9 @@
 
 A clean, interactive personal finance dashboard built with vanilla HTML, CSS, and JavaScript.
 
+#live Link
+https://nethaji43.github.io/finio/
+
 ## Quick Start
 
 No build step needed. Just open `index.html` in any modern browser.
